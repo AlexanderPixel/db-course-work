@@ -5,4 +5,4 @@
 - ER-модель
 - реляційна схема
 
-![Реляційна схема]()
+![Реляційна схема](https://user-images.githubusercontent.com/89361346/209462649-1a9eda73-dffc-45ce-9bec-f98f8eb2713f.png)
